@@ -1,2 +1,17 @@
-# Demo-website-
-A modern, responsive demo website interface built with HTML, CSS, and JavaScript. Features clean design, easy customization, and mobile compatibility. Perfect for showcasing web design concepts to clients or as a starting template for personal and business projects.
+# Demo Website Interface
+
+A modern, responsive demo website built with **HTML**, **CSS**, and **JavaScript**.  
+This template is perfect for showcasing design concepts to clients or as a starting point for personal and business projects.
+
+---
+
+## 🚀 Features
+- Responsive design for mobile, tablet, and desktop
+- Clean, modern UI with customizable sections
+- Built using HTML5, CSS3, and JavaScript
+- Lightweight and fast-loading
+- Easy to modify and deploy
+
+---
+
+## 📂 Project Structure
